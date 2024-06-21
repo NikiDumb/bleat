@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\Domasha2nd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\Domasha2nd.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\Domasha2nd.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\Domasha2nd.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\bin\Debug\net8.0\Domasha2nd.exe
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\bin\Debug\net8.0\Domasha2nd.deps.json
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\bin\Debug\net8.0\Domasha2nd.runtimeconfig.json
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\bin\Debug\net8.0\Domasha2nd.dll
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\bin\Debug\net8.0\Domasha2nd.pdb
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\Domasha2nd.dll
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\refint\Domasha2nd.dll
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\Domasha2nd.pdb
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\Domasha2nd.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\ref\Domasha2nd.dll
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\Domasha2nd\obj\Debug\net8.0\Domasha2nd.sourcelink.json

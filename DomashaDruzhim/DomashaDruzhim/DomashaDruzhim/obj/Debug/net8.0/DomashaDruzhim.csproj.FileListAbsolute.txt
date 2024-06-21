@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\DomashaDruzhim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\DomashaDruzhim.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\DomashaDruzhim.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\DomashaDruzhim.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\bin\Debug\net8.0\DomashaDruzhim.exe
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\bin\Debug\net8.0\DomashaDruzhim.deps.json
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\bin\Debug\net8.0\DomashaDruzhim.runtimeconfig.json
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\bin\Debug\net8.0\DomashaDruzhim.dll
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\bin\Debug\net8.0\DomashaDruzhim.pdb
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\DomashaDruzhim.dll
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\refint\DomashaDruzhim.dll
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\DomashaDruzhim.pdb
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\DomashaDruzhim.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\ref\DomashaDruzhim.dll
+C:\Users\ASUS\Desktop\Учеба\DomashaDruzhim\DomashaDruzhim\obj\Debug\net8.0\DomashaDruzhim.sourcelink.json
