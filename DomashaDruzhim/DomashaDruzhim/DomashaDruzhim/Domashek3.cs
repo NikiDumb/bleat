@@ -25,21 +25,9 @@ namespace DomashaDruzhim
             double largeIncome = 1.1;
             double[] finalMoney = [money, money, money];
 
-            for (int i = 0; i < 18; i++)
-            {
-                if (i < 9)
-                {
-                    finalMoney[0] = smallIncome/12*9*finalMoney[0];
-                }
-                if (i < 12)
-                {
-                    finalMoney[1] = middleIncome * finalMoney[1];
-                }
-                if (i < 18)
-                {
-                    finalMoney[2] *= largeIncome / 12 * 18 * finalMoney[2];
-                }
-            }
+            finalMoney[0] = smallIncome/12*9*finalMoney[0];
+            finalMoney[1] = middleIncome * finalMoney[1]; 
+            finalMoney[2] *= largeIncome / 12 * 18 * finalMoney[2];
 
             return finalMoney;
         }
